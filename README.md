@@ -9,7 +9,7 @@ This readme provides a concise guide to the outline generation process, utilizin
 1. Export Render: Save the primary rendered image.
 2. Export Depth Map: Preserve the depth information of the render.
 3. Export Normal Map: Capture the surface normal information of the render.
-   - Note: Ensure that UV maps adhere to a specified color palette.
+   - Note: Ensure that UV maps adhere to a specified colour palette.
 
 ### Step 2: Image Downscaling
 
@@ -17,7 +17,7 @@ Reduce the size of all images for efficient processing.
 
 ### Step 3: Color Mapping
 
-Map the rendered image to the nearest colours from the specified palette.
+Map the rendered image to the nearest colours from a specified palette.
 
 ![Render image](res/test_render.png)
 ![Colour mapped render](res/output_colour_mapped.png)
@@ -38,13 +38,13 @@ Layer the generated outlines on top of each other using the Python Imaging Libra
 
 ### Step 6 (Optional): Manual Layering
 
-If necessary, create distinct layerings and manually mask them. This is particularly useful when working with text, as a colored Sobel outline might affect readability.
+If necessary, create distinct layerings and manually mask them. This is particularly useful when working with text, as a coloured Sobel outline might affect readability.
 
 ## Potential Enhancements
 
 Enhance the outlined generation process with the following improvements:
 
-- Implement a Sobel layering filter during rendering to automate the outline generation.
+- Implement a Sobel layering filter during rendering to automate the outline generation and not require step 6 in the majority of use cases.
 - Improve integration of normal maps to highlight faces perpendicular to the camera vector.
 - Rewrite the code in a more structured and easily understandable programming language.
    - Enforcing strict typing for enhanced clarity.
