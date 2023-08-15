@@ -17,18 +17,18 @@ Rooted in the pursuit of technical excellence and unfettered creative exploratio
 
 3. **Chromatic Mapping Proficiency:**
    - Implement meticulous color mapping algorithms, seamlessly aligning rendered images with their closest chromatic counterparts, setting the stage for transformative algorithms.
-![Render image](res\test_render.png)
-![Colour mapped render](res\output_colour_mapped.png)
+![Render image](res/test_render.png)
+![Colour mapped render](res/output_colour_mapped.png)
 
 4. **Sobel Operator Enigma:**
    - Enlist the enigmatic Sobel operator, meticulously applied to nearest color, depth, and normal maps, conjuring intricate outlines that bestow life upon your creations.
-![Depth map](res\depth.png)
-![Sobel effect](res\output_depth_sobel.png)
+![Depth map](res/depth.png)
+![Sobel effect](res/output_depth_sobel.png)
 
 1. **Layered Image Fusion:**
    - Choreograph a symphony of algorithms using the Python Imaging Library (PIL) to seamlessly layer these intricate outlines, elevating the visual richness of your masterpiece.
-![Image Infusion](res\output_1.png)
-![Image Infusion](res\output_2.png)
+![Image Infusion](res/output_1.png)
+![Image Infusion](res/output_2.png)
 
 2. **Artistic Customization (Optional):**
    - Unleash technical artistry by crafting bespoke layering methodologies and precise masks, particularly valuable for textual components, achieving both aesthetic finesse and visual clarity.
