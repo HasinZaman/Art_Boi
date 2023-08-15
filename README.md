@@ -27,10 +27,10 @@ Rooted in the pursuit of technical excellence and unfettered creative exploratio
 
 1. **Layered Image Fusion:**
    - Choreograph a symphony of algorithms using the Python Imaging Library (PIL) to seamlessly layer these intricate outlines, elevating the visual richness of your masterpiece.
-![Image Infusion](res/output_1.png)
-![Image Infusion](res/output_2.png)
+![Example_1](res/output_1.png)
+![Example_2](res/output_2.png)
 
-2. **Artistic Customization (Optional):**
+1. **Artistic Customization (Optional):**
    - Unleash technical artistry by crafting bespoke layering methodologies and precise masks, particularly valuable for textual components, achieving both aesthetic finesse and visual clarity.
 
 ## The Path Forward: Evolution and Aspirations
